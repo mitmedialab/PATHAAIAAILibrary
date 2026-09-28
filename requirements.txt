@@ -1,0 +1,7 @@
+langchain>=1.4
+langchain-anthropic>=1.7
+langchain-openai>=1.6
+langchain-google-genai>=4.4
+numpy>=2.0
+python-dotenv>=1.0
+pytest>=8.0
